@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OrienTek</string>
+    <string name="client_name">Nombre</string>
+    <string name="client_enterprise">Empresa</string>
+    <string name="url_api">http://10.0.2.2:8080/api/environment</string>
+    <string name="form_client_title">Title</string>
+    <string name="form_client_button_positive">Positive</string>
+    <string name="form_client_button_negative">Cancelar</string>
+    <string name="fieldEmpty">¡Este campo no puede estar vacio!</string>
+    <string name="fieldShort">¡Este campo debe contener almenos 5 caracteres!</string>
+    <string name="fieldLong">¡Este campo no puede contener mas de 25 caracteres!</string>
+    <string name="registerSuccess">¡Registro Exitoso!</string>
+    <string name="registerError">¡Error en registro. 0 no insertado!</string>
+    <string name="updated">¡0 1!</string>
+    <string name="notUpdated">¡Problemas al 0 1!</string>
+    <string name="checkFields">¡Revisa los campos!</string>
+    <string name="directionsMsg">¡Tus direcciones!</string>
+    <string name="directionsNotFound">¡Este cliente, no tiene direcciones almacenadas!</string>
+    <string name="welcome">¡Bienvenid@ client!</string>
+
+
+
+</resources>
